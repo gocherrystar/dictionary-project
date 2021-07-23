@@ -10,7 +10,7 @@ function App() {
        </header>
         
        <main>
-         <Dictionary />
+         <Dictionary defaultKeyword="Hello" />
        </main>
        <footer className="App-footer"> This code was created by Yue Ajioka and is{" "}
     <a href="https://github.com/gocherrystar/dictionary-project" target="blank" rel="noopener noreferrer" >open-sourced on GitHub</a>
